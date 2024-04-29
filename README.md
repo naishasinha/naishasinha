@@ -1,3 +1,5 @@
+<img width="1256" alt="Screenshot 2024-04-28 at 10 38 08 PM" src="https://github.com/naishasinha/naishasinha/assets/117387359/070228d3-c390-498a-9029-d38a01e191f5">
+
 ## Hi, I'm Naisha! 👋🏽
 
 I’m an undergraduate majoring in Computer Science (concentration: Data Science) and minoring in Business at the University of Washington - Seattle.
