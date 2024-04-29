@@ -6,7 +6,15 @@
 
 💡 Interested in working on side projects + open-source contributions in web dev, full-stack, and AI. 
 
-💬 Non-tech interests that I would **_love_** to incorporate my technical skills with: sports 🏀, finance (fintech) 💹, cosmetics 💄
+💬 Non-tech interests that I **_love_** to incorporate my technical skills with: 
+
+    ➝ Sports 🏀
+    
+    ➝ Finance (fintech) 💹
+    
+    ➝ Cosmetics 💄
+    
+    ➝ .. and more!
 
 ## Languages and Tools 💻
 
