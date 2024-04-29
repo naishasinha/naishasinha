@@ -2,7 +2,9 @@
 
 ## Hi, I'm Naisha! 👋🏽
 
-I’m an undergraduate majoring in Computer Science (concentration: Data Science) and minoring in Business at the University of Washington - Seattle.
+📚 Undergraduate majoring in Computer Science (concentration: Data Science) and minoring in Business at the University of Washington - Seattle
+
+💡 Interested in working on side projects + open-source contributions in web dev, full-stack, and AI. 
 
 ## Languages and Tools 💻
 
