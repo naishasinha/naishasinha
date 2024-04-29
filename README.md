@@ -20,10 +20,6 @@
 
 Coming soon!
 
-## Contact ME 📥
-
-Coming soon!
-
 <!--
 **naishasinha/naishasinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
