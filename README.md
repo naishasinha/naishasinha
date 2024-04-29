@@ -10,7 +10,7 @@
 
     ➝ Sports 🏀
     
-    ➝ Finance (fintech) 💹
+    ➝ Finance 💹
     
     ➝ Cosmetics 💄
     
