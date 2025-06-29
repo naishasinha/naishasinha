@@ -7,17 +7,7 @@
 
 📚 Undergraduate majoring in Computer Science (concentration: Data Science) and minoring in Business at the University of Washington - Seattle
 
-💡 Interested in working on side projects + open-source contributions in web dev, full-stack, and AI. 
-
-💬 Non-tech interests that I love to incorporate my technical skills with: 
-
-    ➝ Sports 🏀
-    
-    ➝ Finance 💹
-    
-    ➝ Cosmetics 💄
-    
-    ➝ .. and more!
+💡 Working on side projects + open-source contributions in web dev, full-stack, and AI. 
 
 ## Languages and Tools 💻
 
